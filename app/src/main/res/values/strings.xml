@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">录音软件</string>
+    <string name="edit_note">编辑备注</string>
+    <string name="delete_recording">删除录音</string>
+    <string name="confirm_delete">确定要删除这条录音吗？</string>
+    <string name="start_recording">开始录音</string>
+    <string name="pause_recording">暂停录音</string>
+    <string name="stop_recording">停止录音</string>
+    <string name="recording">录音中</string>
+    <string name="permission_required">需要所有权限才能正常使用</string>
+    <string name="float_window_permission_granted">悬浮窗权限获取成功</string>
+    <string name="float_window_permission_denied">悬浮窗权限获取失败</string>
+    <string name="note_updated">备注更新成功</string>
+    <string name="note_update_failed">备注更新失败</string>
+    <string name="delete_success">删除成功</string>
+    <string name="delete_failed">删除失败</string>
+</resources>
